@@ -1,0 +1,4 @@
+how to install opencv3 on Anaconda platform on Mac:
+
+run: 
+conda install -c menpo opencv3
