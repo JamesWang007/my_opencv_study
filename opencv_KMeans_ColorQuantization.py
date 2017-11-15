@@ -42,8 +42,8 @@ res = center[label.flatten()]
 res2 = res.reshape((img.shape))
 
 cv2.imshow('res2',res2)
-cv2.destroyAllWindows()
 cv2.waitKey(0)
+cv2.destroyAllWindows()
 
 
 
